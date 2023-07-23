@@ -1,7 +1,6 @@
-### Opa, tu clicou no link né...
-### Bom, me chamo Roberto Fernandes 🙂
-
-### Low profile
+### ➡ Bom, me chamo Roberto Fernandes 🙂
+### ➡ Pergunte-me sobre 'C' ou 'Pseudocódigo' 
+### ➡ No mais é isto...
 
 ![Roberto-F-Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-F-Rocha&show_icons=true&theme=tokyonight)
 
