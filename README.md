@@ -3,6 +3,7 @@
 ### ➡ Focado em Business Intelligence e Power BI 
 ### ➡ Conhecimento em Java, Python, SQL, Java REST Framework, 'C' e 'Pseudocódigo'   
 
+
 ![Roberto-F-Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-F-Rocha&show_icons=true&theme=tokyonight)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-fernandes-598a12261)  
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/O2WNAY3JVBF2K1)  
