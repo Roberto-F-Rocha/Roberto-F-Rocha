@@ -1,7 +1,7 @@
-### ➡ Bem-vindo(a)! Sou Roberto Fernandes Rocha  
-### ➡ Bacharelando em Tecnologia da Informação pela UFERSA  
-### ➡ Focado em Business Intelligence, especialista em Power BI   
-### ➡ Experiência em análise de dados e soluções tecnológicas  
+### Bem-vindo(a)! Sou Roberto Fernandes Rocha  
+### Bacharelando em Tecnologia da Informação pela UFERSA  
+### Focado em Business Intelligence e Power BI  - Nova Data
+### Conhecimento em C, Python, Java, JavaScript, CSS, HTML e SQL       
 
 <div>
   <a href="https://linkedin.com/in/roberto-fernandes-598a12261">
