@@ -1,8 +1,10 @@
 ### ➡ Bem-vindo(a)! Sou Roberto Fernandes Rocha  
 ### ➡ Bacharelando em Tecnologia da Informação pela UFERSA  
-### ➡ Focado em Business Intelligence e Power BI 
-### ➡ Conhecimento em Java, Python, SQL, Java REST Framework, 'C' e 'Pseudocódigo'   
+### ➡ Focado em Business Intelligence, especialista em Power BI  
+### ➡ Conhecimento em Java, Python, SQL, Java REST Framework, 'C' e 'Pseudocódigo'  
+### ➡ Experiência em análise de dados e soluções tecnológicas  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-F-Rocha&layout=compact&theme=tokyonight)
 
 ![Roberto-F-Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-F-Rocha&show_icons=true&theme=tokyonight)
 
