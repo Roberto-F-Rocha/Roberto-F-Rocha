@@ -19,6 +19,4 @@
   </a>
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-F-Rocha&layout=compact&theme=tokyonight)
-
-![Roberto-F-Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-F-Rocha&show_icons=true&theme=tokyonight)
+![Roberto-F-Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-F-Rocha&show_icons=true&theme=tokyonight)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-F-Rocha&layout=compact&theme=tokyonight)
